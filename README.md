@@ -1,3 +1,0 @@
-# ANN-model-factory
-
-- TEST
